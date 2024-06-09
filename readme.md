@@ -1,8 +1,8 @@
 # vpnc-script
 -----------------------------------------------------
 
-Original : https://gitlab.com/openconnect/vpnc-scripts/-/raw/92fe06f6589dcc21725c51b8f86051482bf3b1bd/vpnc-script
-Updated : https://gitlab.com/openconnect/vpnc-scripts/-/blob/master/vpnc-script?ref_type=heads
+* Original : https://gitlab.com/openconnect/vpnc-scripts/-/raw/92fe06f6589dcc21725c51b8f86051482bf3b1bd/vpnc-script
+* Updated : https://gitlab.com/openconnect/vpnc-scripts/-/blob/master/vpnc-script?ref_type=heads
 
 ## Issues
 1. Some of statments used by `vpnc-script` are not compatible with iptable 2 or higher.
